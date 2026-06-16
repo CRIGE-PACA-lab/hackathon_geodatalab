@@ -19,6 +19,6 @@ En croisant des mesures de climatologie urbaine réalisées in-situ et des sorti
 
 ## Résultats 
 
-[Données](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/tree/main/resultats/Nice/D%C3%A9fi%202%20-%20Climat%20urbain%20%C3%A9volution%20du%20confort%20thermique/Equipe%202%20-%20pr%C3%A9sentation%20et%20docs%20de%20travail/Donnee)
+[Données](https://github.com/CRIGE-PACA-lab/hackathon_geodatalab/2025/tree/main/resultats/Nice/D%C3%A9fi%202%20-%20Climat%20urbain%20%C3%A9volution%20du%20confort%20thermique/Equipe%202%20-%20pr%C3%A9sentation%20et%20docs%20de%20travail/Donnee)
 
-[Cartes](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/tree/main/resultats/Nice/D%C3%A9fi%202%20-%20Climat%20urbain%20%C3%A9volution%20du%20confort%20thermique/Equipe%202%20-%20pr%C3%A9sentation%20et%20docs%20de%20travail/carto)
+[Cartes](https://github.com/CRIGE-PACA-lab/hackathon_geodatalab/2025/tree/main/resultats/Nice/D%C3%A9fi%202%20-%20Climat%20urbain%20%C3%A9volution%20du%20confort%20thermique/Equipe%202%20-%20pr%C3%A9sentation%20et%20docs%20de%20travail/carto)
