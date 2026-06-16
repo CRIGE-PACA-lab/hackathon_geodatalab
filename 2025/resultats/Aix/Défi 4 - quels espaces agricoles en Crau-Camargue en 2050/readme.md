@@ -24,10 +24,10 @@ Vous ciblerez votre étude sur le périmètre « Grande Camargue ».
 
 ## Résultats 
 
-[Présentation des étudiants](https://crige-paca-lab.github.io/hackathon_crige_2025/resultats/Aix/D%C3%A9fi%204%20-%20quels%20espaces%20agricoles%20en%20Crau-Camargue%20en%202050/Pr%C3%A9sentation.pdf)
+[Présentation des étudiants](https://crige-paca-lab.github.io/hackathon_geodatalab/2025/resultats/Aix/D%C3%A9fi%204%20-%20quels%20espaces%20agricoles%20en%20Crau-Camargue%20en%202050/Pr%C3%A9sentation.pdf)
 
-[Données](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/tree/main/resultats/Aix/D%C3%A9fi%204%20-%20quels%20espaces%20agricoles%20en%20Crau-Camargue%20en%202050/Donn%C3%A9es)
+[Données](https://github.com/CRIGE-PACA-lab/hackathon_geodatalab/2025/tree/main/resultats/Aix/D%C3%A9fi%204%20-%20quels%20espaces%20agricoles%20en%20Crau-Camargue%20en%202050/Donn%C3%A9es)
 
-[Carte interactive (plein écran)](https://crige-paca-lab.github.io/hackathon_crige_2025/resultats/Aix/D%C3%A9fi%204%20-%20quels%20espaces%20agricoles%20en%20Crau-Camargue%20en%202050/qgis2web_2025_10_15-15_09_47_441140/)
+[Carte interactive (plein écran)](https://crige-paca-lab.github.io/hackathon_geodatalab/2025/resultats/Aix/D%C3%A9fi%204%20-%20quels%20espaces%20agricoles%20en%20Crau-Camargue%20en%202050/qgis2web_2025_10_15-15_09_47_441140/)
 
 <iframe src="qgis2web_2025_10_15-15_09_47_441140/index.html" height="700" width="700"></iframe> 
