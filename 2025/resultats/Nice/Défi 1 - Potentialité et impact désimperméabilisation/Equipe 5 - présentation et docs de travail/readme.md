@@ -19,8 +19,8 @@ Proposer et tester une méthodologie de mise en œuvre de sélection de sites et
 
 ## Résultats 
 
-[Présentation des étudiants](https://crige-paca-lab.github.io/hackathon_crige_2025/resultats/Nice/D%C3%A9fi%201%20-%20Potentialit%C3%A9%20et%20impact%20d%C3%A9simperm%C3%A9abilisation/Equipe%205%20-%20pr%C3%A9sentation%20et%20docs%20de%20travail/Diapo%20Groupe%205%20Passage%201.pdf)
+[Présentation des étudiants](https://crige-paca-lab.github.io/hackathon_geodatalab/2025/resultats/Nice/D%C3%A9fi%201%20-%20Potentialit%C3%A9%20et%20impact%20d%C3%A9simperm%C3%A9abilisation/Equipe%205%20-%20pr%C3%A9sentation%20et%20docs%20de%20travail/Diapo%20Groupe%205%20Passage%201.pdf)
 
-[Données](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/tree/main/resultats/Nice/D%C3%A9fi%201%20-%20Potentialit%C3%A9%20et%20impact%20d%C3%A9simperm%C3%A9abilisation/Equipe%205%20-%20pr%C3%A9sentation%20et%20docs%20de%20travail/SIG/SHP)
+[Données](https://github.com/CRIGE-PACA-lab/hackathon_geodatalab/2025/tree/main/resultats/Nice/D%C3%A9fi%201%20-%20Potentialit%C3%A9%20et%20impact%20d%C3%A9simperm%C3%A9abilisation/Equipe%205%20-%20pr%C3%A9sentation%20et%20docs%20de%20travail/SIG/SHP)
 
-[Code](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/tree/main/resultats/Nice/D%C3%A9fi%201%20-%20Potentialit%C3%A9%20et%20impact%20d%C3%A9simperm%C3%A9abilisation/Equipe%205%20-%20pr%C3%A9sentation%20et%20docs%20de%20travail/Code)
+[Code](https://github.com/CRIGE-PACA-lab/hackathon_geodatalab/2025/tree/main/resultats/Nice/D%C3%A9fi%201%20-%20Potentialit%C3%A9%20et%20impact%20d%C3%A9simperm%C3%A9abilisation/Equipe%205%20-%20pr%C3%A9sentation%20et%20docs%20de%20travail/Code)
