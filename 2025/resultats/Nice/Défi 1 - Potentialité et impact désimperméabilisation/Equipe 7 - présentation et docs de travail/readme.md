@@ -19,6 +19,6 @@ Proposer et tester une méthodologie de mise en œuvre de sélection de sites et
 
 ## Résultats 
 
-[Données](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/tree/main/resultats/Nice/D%C3%A9fi%201%20-%20Potentialit%C3%A9%20et%20impact%20d%C3%A9simperm%C3%A9abilisation/Equipe%207%20-%20pr%C3%A9sentation%20et%20docs%20de%20travail/Donn%C3%A9e%20centralis%C3%A9e%20hackaton)
+[Données](https://github.com/CRIGE-PACA-lab/hackathon_geodatalab/2025/tree/main/resultats/Nice/D%C3%A9fi%201%20-%20Potentialit%C3%A9%20et%20impact%20d%C3%A9simperm%C3%A9abilisation/Equipe%207%20-%20pr%C3%A9sentation%20et%20docs%20de%20travail/Donn%C3%A9e%20centralis%C3%A9e%20hackaton)
 
-[Projets SIG](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/tree/main/resultats/Nice/D%C3%A9fi%201%20-%20Potentialit%C3%A9%20et%20impact%20d%C3%A9simperm%C3%A9abilisation/Equipe%207%20-%20pr%C3%A9sentation%20et%20docs%20de%20travail/SIG)
+[Projets SIG](https://github.com/CRIGE-PACA-lab/hackathon_geodatalab/2025/tree/main/resultats/Nice/D%C3%A9fi%201%20-%20Potentialit%C3%A9%20et%20impact%20d%C3%A9simperm%C3%A9abilisation/Equipe%207%20-%20pr%C3%A9sentation%20et%20docs%20de%20travail/SIG)
