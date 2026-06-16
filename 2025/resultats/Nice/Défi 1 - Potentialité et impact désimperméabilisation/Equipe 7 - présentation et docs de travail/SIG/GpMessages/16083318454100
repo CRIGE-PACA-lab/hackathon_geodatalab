@@ -1,0 +1,3 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Heure de début : mardi 15 octobre 2024 14:28:53</msg><msg code="90052" type="100">ERROR 090052: A single AOI feature must be selected.</msg><msg code="1" type="100">There was an error on line line 363 of GenerateTopographicContours.py
+Exception
+</msg><msg code="0" type="0">Échec du script Generate Topographic Contours...</msg><msg code="-2147467259" type="100">Échec de l’exécution de (GenerateTopographicContours).</msg><msg code="0" type="3">Échec à mardi 15 octobre 2024 14:28:55 (temps écoulé : 2,27 secondes)</msg></messages>

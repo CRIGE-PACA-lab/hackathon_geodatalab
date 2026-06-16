@@ -1,0 +1,26 @@
+file format : IDRISI Raster A.1
+file title  : 
+data type   : real
+file type   : binary
+columns     : 659
+rows        : 589
+ref. system : utm-32n
+ref. units  : m
+unit dist.  : 1.0000000
+min. X      : 105500.0000000
+max. X      : 435000.0000000
+min. Y      : 4736000.0000000
+max. Y      : 5030500.0000000
+pos'n error : unknown
+resolution  : unknown
+min. value  : 0.0000000
+max. value  : 1.0000000
+display min : 0.0000000
+display max : 1.0000000
+value units : unspecified
+value error : unknown
+flag value  : none
+flag def'n  : none
+legend cats : 0
+lineage     : This file was created by the OVERLAY module with the command line: 
+lineage     : 3*C:\Users\emili\Documents\HACKATON_2025\MAHACLASS2.rst*C:\Users\emili\Documents\HACKATON_2025\LANDCOVER_SIMPLE_2018_CLASS_2.rst*C:\Users\emili\Documents\HACKATON_2025\TMP-294-1.rst

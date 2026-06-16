@@ -1,0 +1,3 @@
+{"dsn":"https://f41ef7d822e2787372a34980b69065fc@o4509554746785792.ingest.de.sentry.io/4509554750390352"}
+{"type":"session","length":228}
+{"init":true,"sid":"eb319cea-4e4a-4c2d-7253-532dab82db77","status":"exited","errors":0,"started":"2025-10-15T14:04:18.359880Z","duration":0.524249,"attrs":{"release":"FME-Engine@FME(R) 2025.1.3.0.25643","environment":"release"}}
