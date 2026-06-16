@@ -26,8 +26,8 @@ Différents scénarios de projection de croissance peuvent être étudiés en te
 ## Résultats 
 
 
-[Présentation des étudiants](https://crige-paca-lab.github.io/hackathon_crige_2025/resultats/Aix/D%C3%A9fi%202%20-%20dynamiques%20de%20la%20croissance%20foresti%C3%A8re%20en%20PACA/Pr%C3%A9sentation.pdf)
+[Présentation des étudiants](https://crige-paca-lab.github.io/hackathon_geodatalab/2025/resultats/Aix/D%C3%A9fi%202%20-%20dynamiques%20de%20la%20croissance%20foresti%C3%A8re%20en%20PACA/Pr%C3%A9sentation.pdf)
 
-[Note de synthèse](https://crige-paca-lab.github.io/hackathon_crige_2025/resultats/Aix/D%C3%A9fi%202%20-%20dynamiques%20de%20la%20croissance%20foresti%C3%A8re%20en%20PACA/note_synthese_Hackathon2025_aix_sujet2.pdf)
+[Note de synthèse](https://crige-paca-lab.github.io/hackathon_geodatalab/2025/resultats/Aix/D%C3%A9fi%202%20-%20dynamiques%20de%20la%20croissance%20foresti%C3%A8re%20en%20PACA/note_synthese_Hackathon2025_aix_sujet2.pdf)
 
-[Données](https://github.com/CRIGE-PACA-lab/hackathon_crige_2025/tree/main/resultats/Aix/D%C3%A9fi%202%20-%20dynamiques%20de%20la%20croissance%20foresti%C3%A8re%20en%20PACA/R%C3%A9sultats)
+[Données](https://github.com/CRIGE-PACA-lab/hackathon_geodatalab/2025/tree/main/resultats/Aix/D%C3%A9fi%202%20-%20dynamiques%20de%20la%20croissance%20foresti%C3%A8re%20en%20PACA/R%C3%A9sultats)
