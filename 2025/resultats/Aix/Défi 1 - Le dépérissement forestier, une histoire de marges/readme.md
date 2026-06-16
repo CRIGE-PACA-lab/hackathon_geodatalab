@@ -22,4 +22,4 @@ Les inventaires forestiers permettent d’identifier la répartition des espèce
 ## Résultats 
 
 
-[Présentation des étudiants](https://crige-paca-lab.github.io/hackathon_crige_2025/resultats/Aix/D%C3%A9fi%201%20-%20Le%20d%C3%A9p%C3%A9rissement%20forestier,%20une%20histoire%20de%20marges/Pr%C3%A9sentation.pdf)
+[Présentation des étudiants](https://crige-paca-lab.github.io/hackathon_geodatalab/2025/resultats/Aix/D%C3%A9fi%201%20-%20Le%20d%C3%A9p%C3%A9rissement%20forestier,%20une%20histoire%20de%20marges/Pr%C3%A9sentation.pdf)
