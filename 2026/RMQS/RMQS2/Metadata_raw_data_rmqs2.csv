@@ -1,0 +1,26 @@
+variable,class,description
+id_campaign,numeric,1 = campaign 2000-2009  - 2 = campaign 2016-2027. This dataset has data for campaign 2 until 2023
+id_cellule,numeric,identifier of the 16 km x 16 km cell
+id_site,numeric,id of each site
+y_theo,numeric,theoretical coordinates  : coordinates of the center of the cell (16 km by 16 km). Coordinates system : RGF93 (m)
+x_theo,numeric,theoretical coordinates  : coordinates of the center of the cell (16 km by 16 km). Coordinates system : RGF93 (m)
+Biosoil,numeric,1 = RMQS plots associated to Reseau Syst‚matique de Suivi des Dommages Forestiers - RSSDF (French name of European ICP Forest level1) plots. RMQS plots and  RSSDF plots were sampled simultaneously
+sampling_date,Date,Date of sampling
+Layer,numeric,Composite layer of the RMQS protocol to which the individual bulk density samples are attached to.
+numero_annee_rmqs2,numeric,Planned year of sampling by site during the second campaing 1 = 2016 2 = 2017 3= 2018 4 = 2019 5 = 2020 6 = 2021 7 = 2022
+site_officiel,numeric,Official site. 1 = TRUE  ou 0 = FALSE :   some cells contain several sites. For each of them: one site has been selected as official site ( value equal to TRUE). The general rule for selection is the one located  at the nearest of the center of the cell. For the second or  the third site in a cell  the value equals to FALSE. To get the sampling set corresponding to the random sampling grid the value should be equals to TRUE. No units
+Land_use_code,numeric,1 = Croplands 2= Grasslands 3 = Forests 4 = Vineyards/Orchards 5 = Fallow land 6 = Natural environments 7 = Parks/Gardens
+Sup_limit_layer,numeric,Upper limit of the composite layer to which the individual sample is associated to (cm).
+Inf_limit_layer,numeric,Lower limit of the composite layer to which the individual sample is associated to (cm).
+upp_lim_sample,numeric,upper limit of the individual sample(cm).
+Low_lim_sample,numeric,lower limit of the individual sample(cm).
+da_no_methode,numeric,method for bulk density sampling. 133 = Cylinder (NF X 31 501 -511) 134 = Densitometer (NF X 31 502) 141 = Excavation measuring the volume with water 142 = Excavation measuring the volume with sand 204 = Auger  EDELMANN diam. 7cm 205 = Russian corer for peatlands  203 = Auger  0.1 = other methods
+masse_humide,numeric,Total wet soil mass at sampling (g)
+masse_seche,numeric,Dry mass after drying at 105 degrees C (g)
+Moist_cont,numeric,Gravimetric moisture content (%)
+Gravels,numeric,Gravimetric gravel  (size fraction 0.2 – 2 cm) content (%)
+Stones,numeric,Gravimetric stone (size fraction 2 – 6 cm) content (%)
+volume,numeric,sample volume (cm3)
+BD,numeric,sample bulk density (g/cm3)
+CF,numeric,Sample gravimetric coarse fragment content (%)
+FE,numeric,Sample fine earth per total sample volume (g/cm3)
