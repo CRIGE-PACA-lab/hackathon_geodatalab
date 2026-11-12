@@ -2,8 +2,8 @@
 
 Deux jeux de données sont disponibles dans ce geopackage : 
 
-1. [Jeu de données « Zones humides » — RPDZH / Géosource (Forum des Marais Atlantiques)](##1-Couche 'export_zh_reseau_zones_humides')
-2. [Jeu de données « Zones humides » — DDTM 13 (Bouches-du-Rhône)](##2-Couche 'export_zone_humide_ddtm13')
+1. [Jeu de données « Zones humides » — RPDZH / Géosource (Forum des Marais Atlantiques)](#1-Couche 'export_zh_reseau_zones_humides')
+2. [Jeu de données « Zones humides » — DDTM 13 (Bouches-du-Rhône)](#2-Couche 'export_zone_humide_ddtm13')
 
 
 ## 1. Couche 'export_zh_reseau_zones_humides'
