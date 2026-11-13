@@ -22,6 +22,8 @@ Ce document rassemble les métadonnées des 11 couches du GeoPackage. Chaque sec
 
 ### Identification
 
+| Élément | Valeur |
+|---|---|
 | Nom de la couche (GeoPackage) | `DH_ZSC` |
 | Titre du jeu de données source | Sites Natura 2000 au titre de la Directive Habitats en Provence-Alpes-Côte d'Azur |
 | Type de donnée | Couches vectorielles (périmètres de protection réglementaire) |
@@ -73,6 +75,8 @@ Champs de la table attributaire de la couche `DH_ZSC` :
 
 ### Sources et producteur
 
+| Élément | Valeur |
+|---|---|
 | Producteur | DREAL Provence-Alpes-Côte d'Azur |
 | Source (téléchargement) | <https://www.data.gouv.fr/datasets/sites-natura-2000-au-titre-de-la-directive-habitats-en-provence-alpes-cote-dazur> |
 | Licence | Licence Ouverte / Open Licence version 2.0 |
@@ -127,7 +131,8 @@ Champs de la table attributaire de la couche `DO_ZPS` :
 
 ### Sources et producteur
 
-
+| Élément | Valeur |
+|---|---|
 | Producteur | DREAL Provence-Alpes-Côte d'Azur |
 | Source (téléchargement) | <https://www.data.gouv.fr/datasets/sites-natura-2000-au-titre-de-la-directive-oiseaux-en-provence-alpes-cote-dazur> |
 | Licence | Licence Ouverte / Open Licence version 2.0 |
@@ -140,6 +145,8 @@ Champs de la table attributaire de la couche `DO_ZPS` :
 
 ### Identification
 
+| Élément | Valeur |
+|---|---|
 | Nom de la couche (GeoPackage) | `DPA_P` |
 | Titre du jeu de données source | Directive paysagère des Alpilles en Provence-Alpes-Côte d'Azur |
 | Type de donnée | Couche vectorielle (périmètre de protection au titre des paysages) |
@@ -172,7 +179,8 @@ Champs de la table attributaire de la couche `DPA_P` :
 
 ### Sources et producteur
 
-
+| Élément | Valeur |
+|---|---|
 | Producteur | DREAL Provence-Alpes-Côte d'Azur |
 | Source (téléchargement) | <https://www.data.gouv.fr/datasets/directive-paysagere-des-alpilles-en-provence-alpes-cote-dazur-1> |
 | Licence | Licence Ouverte / Open Licence version 2.0 |
@@ -185,7 +193,8 @@ Champs de la table attributaire de la couche `DPA_P` :
 
 ### Identification
 
-
+| Élément | Valeur |
+|---|---|
 | Nom de la couche (GeoPackage) | `L_SITE_INSCRIT_S_R93` |
 | Titre du jeu de données source | Sites inscrits en Provence-Alpes-Côte d'Azur |
 | Type de donnée | Couche vectorielle (périmètres de protection des sites et paysages) |
@@ -238,7 +247,8 @@ Champs de la table attributaire de la couche `L_SITE_INSCRIT_S_R93` :
 
 ### Sources et producteur
 
-
+| Élément | Valeur |
+|---|---|
 | Diffuseur | DREAL Provence-Alpes-Côte d'Azur |
 | Attributions | DREAL Provence-Alpes-Côte d'Azur (contact, détenteur des droits) |
 | Source (téléchargement) | <https://www.data.gouv.fr/datasets/sites-inscrits-en-provence-alpes-cote-dazur-2> |
@@ -252,7 +262,8 @@ Champs de la table attributaire de la couche `L_SITE_INSCRIT_S_R93` :
 
 ### Identification
 
-
+| Élément | Valeur |
+|---|---|
 | Nom de la couche (GeoPackage) | `N_ENP_APB_S_R93` |
 | Titre du jeu de données source | Arrêté Préfectoral de Protection de Biotope (APPB) en Provence-Alpes-Côte d'Azur |
 | Type de donnée | Couche vectorielle (périmètres de protection réglementaire) |
@@ -311,7 +322,8 @@ Champs de la table attributaire de la couche `N_ENP_APB_S_R93` :
 
 ### Sources et producteur
 
-
+| Élément | Valeur |
+|---|---|
 | Producteur | DREAL Provence-Alpes-Côte d'Azur |
 | Source (téléchargement) | <https://www.data.gouv.fr/datasets/arrete-prefectoral-de-protection-de-biotope-appb-en-provence-alpes-cote-dazur> |
 | Licence | Licence Ouverte / Open Licence version 2.0 |
@@ -324,7 +336,8 @@ Champs de la table attributaire de la couche `N_ENP_APB_S_R93` :
 
 ### Identification
 
-
+| Élément | Valeur |
+|---|---|
 | Nom de la couche (GeoPackage) | `RNN` |
 | Titre du jeu de données source | Réserves naturelles nationales en Provence-Alpes-Côte d'Azur |
 | Type de donnée | Couche vectorielle (périmètres de protection réglementaire) |
@@ -382,7 +395,8 @@ Champs de la table attributaire de la couche `RNN` :
 
 ### Sources et producteur
 
-
+| Élément | Valeur |
+|---|---|
 | Producteur | DREAL Provence-Alpes-Côte d'Azur |
 | Source (téléchargement) | <https://www.data.gouv.fr/datasets/reserves-naturelles-nationales-en-provence-alpes-cote-dazur> |
 | Licence | Licence Ouverte / Open Licence version 2.0 |
@@ -395,7 +409,8 @@ Champs de la table attributaire de la couche `RNN` :
 
 ### Identification
 
-
+| Élément | Valeur |
+|---|---|
 | Nom de la couche (GeoPackage) | `RNR` |
 | Titre du jeu de données source | Réserves naturelles régionales (extrait régional de la couche nationale des espaces protégés de l'INPN) |
 | Type de donnée | Couche vectorielle (périmètres de protection réglementaire) |
@@ -434,6 +449,8 @@ Modalités de `type_espace` pour cette couche : `Réserve naturelle régionale` 
 
 ### Sources et producteur
 
+| Élément | Valeur |
+|---|---|
 | Producteur | Muséum National d'Histoire Naturelle (MNHN) — PatriNat, centre d'expertise et de données sur le patrimoine naturel (INPN) |
 | Source (téléchargement) | <https://assets.patrinat.fr/files/donnees/ep/EP.zip> |
 | Fiche de métadonnées du programme | <https://www.data.gouv.fr/datasets/inpn-donnees-du-programme-espaces-proteges> |
@@ -447,7 +464,8 @@ Modalités de `type_espace` pour cette couche : `Réserve naturelle régionale` 
 
 ### Identification
 
-
+| Élément | Valeur |
+|---|---|
 | Nom de la couche (GeoPackage) | `znieff1` |
 | Titre du jeu de données source | Inventaire des Zones Naturelles d'Intérêt Écologique, Faunistique et Floristique — ZNIEFF de type I (extrait régional de la couche nationale de l'INPN) |
 | Type de donnée | Couche vectorielle (périmètres d'inventaire) |
@@ -490,6 +508,8 @@ La livraison nationale ZNIEFF (standard « données de production ») comprend �
 
 ### Sources et producteur
 
+| Élément | Valeur |
+|---|---|
 | Producteur | Muséum National d'Histoire Naturelle (MNHN) — PatriNat (INPN) |
 | Source (téléchargement) | <https://assets.patrinat.fr/files/donnees/znieff/ZNIEFF.zip> |
 | Fiche de métadonnées du programme | <https://www.data.gouv.fr/datasets/inpn-donnees-du-programme-znieff> |
@@ -503,6 +523,8 @@ La livraison nationale ZNIEFF (standard « données de production ») comprend �
 
 ### Identification
 
+| Élément | Valeur |
+|---|---|
 | Nom de la couche (GeoPackage) | `znieff2` |
 | Titre du jeu de données source | Inventaire des Zones Naturelles d'Intérêt Écologique, Faunistique et Floristique — ZNIEFF de type II (extrait régional de la couche nationale de l'INPN) |
 | Type de donnée | Couche vectorielle (périmètres d'inventaire) |
@@ -545,6 +567,8 @@ Table attributaire identique à la couche ZNIEFF de type I. Dans `REF_ZNIEFF.csv
 
 ### Sources et producteur
 
+| Élément | Valeur |
+|---|---|
 | Producteur | Muséum National d'Histoire Naturelle (MNHN) — PatriNat (INPN) |
 | Source (téléchargement) | <https://assets.patrinat.fr/files/donnees/znieff/ZNIEFF.zip> |
 | Fiche de métadonnées du programme | <https://www.data.gouv.fr/datasets/inpn-donnees-du-programme-znieff> |
@@ -558,6 +582,8 @@ Table attributaire identique à la couche ZNIEFF de type I. Dans `REF_ZNIEFF.csv
 
 ### Identification
 
+| Élément | Valeur |
+|---|---|
 | Nom de la couche (GeoPackage) | `cdl` |
 | Titre du jeu de données source | Terrains acquis ou affectés au Conservatoire du littoral (extrait régional de la couche nationale des espaces protégés de l'INPN) |
 | Type de donnée | Couche vectorielle (périmètres de terrains acquis en maîtrise foncière) |
@@ -596,6 +622,8 @@ Modalités de `type_espace` pour cette couche : `Terrain acquis par le Conservat
 
 ### Sources et producteur
 
+| Élément | Valeur |
+|---|---|
 | Producteur | Muséum National d'Histoire Naturelle (MNHN) — PatriNat (INPN), à partir des données du Conservatoire du littoral |
 | Source (téléchargement) | <https://assets.patrinat.fr/files/donnees/ep/EP.zip> |
 | Fiche de métadonnées du programme | <https://www.data.gouv.fr/datasets/inpn-donnees-du-programme-espaces-proteges> |
@@ -609,6 +637,8 @@ Modalités de `type_espace` pour cette couche : `Terrain acquis par le Conservat
 
 ### Identification
 
+| Élément | Valeur |
+|---|---|
 | Nom de la couche (GeoPackage) | `cen` |
 | Titre du jeu de données source | Sites des Conservatoires d'espaces naturels (extrait régional de la couche nationale des espaces protégés de l'INPN) |
 | Type de donnée | Couche vectorielle (périmètres de sites gérés ou acquis) |
@@ -647,6 +677,8 @@ Modalités de `type_espace` pour cette couche : `Terrain acquis (ou assimilé) p
 
 ### Sources et producteur
 
+| Élément | Valeur |
+|---|---|
 | Producteur | Muséum National d'Histoire Naturelle (MNHN) — PatriNat (INPN), à partir des données de la fédération des Conservatoires d'espaces naturels |
 | Source (téléchargement) | <https://assets.patrinat.fr/files/donnees/ep/EP.zip> |
 | Fiche de métadonnées du programme | <https://www.data.gouv.fr/datasets/inpn-donnees-du-programme-espaces-proteges> |
